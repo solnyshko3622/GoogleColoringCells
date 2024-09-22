@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "enroll-automation",
+  "private_key_id": "8023ccadd62204aca3e588f3e2473da0251a2055",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLdFNjvEFObITc\nmbsrHuDbbWFgZmCZMx9G20XEelz+ECIoBrBMQJhnVx4eoOgIRzIYVM70jPkaZeOL\novA4uDkaF6z/lST6x3J9lZP00wqLTMoGgseAm/KzeXrqBX3MLs5jg/Ot4mA6ibge\nGU1O1HYq9mFPQTICW5ITjLiqvk0kmaCN0K8AtraOc7mtGE+qf3dVdb9gfObOxn7z\nxKe6ob95hKg3+TgP+4DN+85bB4Isy6oILdzoTtK59M2hhIvi+OJpHAcIWHd6hgG9\n+ZgFhQ1z3DII9s+6Vouep/huEsDESWOZllqgD85Y4lFUVkCxcVWQnN3isIVUO5ne\n0FtbeR/hAgMBAAECggEAAJ4NYDq6pIEoDI7TXnPBKS1Na7hXz/Mzo7iH30sjQ9qa\n7e3qREr4Y2zkYKGqnpbPuDrup1eTrHC1dm+jxLpLYxDCE8L5OiEXj/m/mZE34ZkV\nrlwgfJuMip6iYLosSe207uCgQU1z7w2Kr12yijwTETmO7UmEfDUYrgJB77O04njq\n/NnRr0WQ67fyqUghd74KfWMkOQzr2v/ND2xOtKEOhzFVljhhtedBZNxKYzIhg1mt\n8SbK0N2yhOU1I5wsGDgKd5FBBB63j31q2LZN6/1pn1CqNUUdvfeX5yeA8DIyGrDm\nxWz5Gr9bsw9MDS2z4wzZaqsTkYY839zcQXfM+e3U4QKBgQDs4AkMhefH7NSnH2rY\nrWPJXUknvAdrNxnq3pO/V44+6oJDMB0dEHLHJe3qllfe76V2yJ4e5+3Oejzd6Bw7\nesjczfTUqT+bFTPm7sJbRGnxJs7iF4uefIl+jjc9MX9SUCSNz7IK6zvd2mKcTMsq\ndinIzsbbsKUdG84B0BoeLMDz8QKBgQDb4YSnB3A7qQf59g0LBhuKqaT38Dh1vcSj\nPb+gOOc2OJ6YczlbzD/GN/zWG996twdAf8hsOAj9DL3Yd4SxFxPyKHcPInUmJU8Y\n328PUnSXGazmeSCEUnKg8GEqU2mxNtTp9qF/NhUsngps0IInH3Xu4v3E6/p7PR0m\nW41Hqt0a8QKBgEyGA+ZbzAk2ZWyoJahiO35t+JgxkmP8pQ7PYQPLkVSaBgMWpBEj\nozDa/AVxFGodGWNKZGqvmo+9xbQarCQ7AnDyyEl7c+Tx8JaGQ5ugemlBlExONvi4\nWuLbptTKDMvWwDhgBLCqVejSCFFeLbRGADGzO2L1qiHBPcgwJn/hDWTBAoGABUOb\n6mfKLxN35msWmtn1lNdE5M6ye1ckuwfCa7KRDoJCgcHYcLMuH6+9dN7L9eMl4Exu\n3vBkfrJsZR9PZPH5f0WqvAkGJvijsSPAQ+ykb+2kbwwdVC2pIuM+YEYI9L4sUMGf\n0izYSu4pr7s6MneVWjfC/ZDsuUCYTw/IDRwxGPECgYEAkgSLPEYR72YmZtR27b5S\nCHLXguOv/o2U7F7jw5r/fOQOHze/B6zLGWzI6pW4Dl/+z6BpGRAqrM54fKy9p/cY\nD/6DJLi49CfjFQQJPXSvCOQ0Sd1+rEAPzjXiVV48ohRV3vdllxVxya14uRs/ARPg\nGV4s88UpmhlCubY8Pd3NamE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "acc-550@enroll-automation.iam.gserviceaccount.com",
+  "client_id": "112563500914768269932",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/acc-550%40enroll-automation.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
